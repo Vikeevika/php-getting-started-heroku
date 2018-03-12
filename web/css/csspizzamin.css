@@ -1,0 +1,154 @@
+
+.chef{
+background: transparent;
+font-family: Podkova;
+font-size: 16px;
+text-align: center;
+color: black;
+}
+#chef{
+width: 20%;
+}
+.expirience{
+font-family: Podkova;
+font-size: 16px;
+text-align: center;
+}
+#oil{
+width: 100%;
+height: 90%;
+}
+h3{
+margin: 0;
+}
+.learn{
+background: url(background/food-3074026_1920.jpg);
+font-family: Podkova;
+font-size: 16px;
+text-align: center;
+color: white;
+}
+h4, h5, h6{
+font-size: 40px;
+font-weight: bold;
+}
+h5{
+color: black;
+}
+h6{
+color: white;
+}
+.menupizza, .menudessert, .menudrink{
+font-family: Podkova;
+font-size: 18px;
+text-align: center;
+}
+div.menudessert img{
+width: 30%;
+height: 30%;
+}
+div.menudrink img{
+width: 20%;
+height: 20%;
+}
+.endmenu{
+background: url(background/paprika-3212148_1920.jpg) no-repeat;
+font-family: Podkova;
+font-size: 16px;
+text-align: center;
+color: white;
+}
+.blog{
+font-family: Podkova;
+font-size: 16px;
+text-align: center;
+}
+#restaurant{
+width: 100%;
+height: 90%;
+}
+.blog div.row{
+background-color: black;
+color: white;
+}
+#restaurant1, #restaurant2, #restaurant3{
+width: 100%;
+height: 90%;
+}
+.blog1, .blog3{
+display: flex;
+align-items: stretch;
+flex-wrap: wrap;
+}
+.blog2, .blog4{
+display: flex;
+align-items: stretch;
+flex-wrap: wrap-reverse;
+}
+.blog span{
+font-size: 30px;
+text-align: center;
+}
+.form{
+background: url(background/background-3007395_1920.jpg);
+font-family: Podkova;
+font-size: 16px;
+text-align: center;
+color: black;
+}
+input[type="text"]{
+padding-bottom: 10px;
+margin-bottom: 10px;
+}
+input[type="submit"]{
+background-color: black;
+color: white;
+height: 50px;
+width: 200px; 
+border: 0px;
+margin-bottom: 60px;
+}
+.navbar-nav {
+float: none;
+text-align: center;
+}
+.navbar-nav li {
+float: none;
+display: inline-block;
+}
+.navbar{
+border: none;
+}
+li{
+color: white;
+font-size: 30px;
+}
+#responsive-menu{
+font-family: Podkova;
+color: white;
+}
+#logo, #logo1, #logo2{
+text-align: center;
+}
+.btn{
+background-color: black;
+color: white;
+height: 50px;
+width: 200px; 
+border: 0px;
+border-radius: 0px;
+font-family: Podkova;
+}
+.btnblog{
+text-align: center;
+padding-top: 10px;
+}
+.contactss{
+background-color: white;
+font-family: Podkova;
+font-size: 16px;
+text-align: center;
+}
+div.contactss iframe{
+width: 100%;
+}
