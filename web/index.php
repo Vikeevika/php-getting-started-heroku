@@ -40,19 +40,19 @@
 					<div class="collapse navbar-collapse" id="responsive-menu">
 						<ul class="nav navbar-nav">
 							<li>
-								<a href="pizza.html#myCarousel">Главная</a>
+								<a href="pizza.html#myCarousel" title="pizza" alt="pizza">Главная</a>
 							</li>
 							<li>
-								<a href="pizza.html#opizza">О "pizza"</a>
+								<a href="pizza.html#opizza" title="pizzao" alt="pizzao">О "pizza"</a>
 							</li>
 							<li>
-								<a href="pizza.html#menu">Меню</a>
+								<a href="pizza.html#menu" title="pizzaz" alt="pizzaz">Меню</a>
 							</li>
 							<li>
-								<a href="pizza.html#event">События</a>
+								<a href="pizza.html#event" title="pizzae" alt="pizzae">События</a>
 							</li>
 							<li>
-								<a href="pizza.html#forma">Контакты</a>
+								<a href="pizza.html#forma" title="pizzaf" alt="pizzaf">Контакты</a>
 							</li>
 						</ul>
 					</div>
@@ -72,7 +72,7 @@
 				<div class="carousel-caption">
 					<div id="logo" class="logo">
 						<a href="#responsive-menu" title="Home" rel="home">
-							<img src="background/3ad4dd83d2de60d005906101cabd7d8a.png" alt="Home">
+							<img src="background/3ad4dd83d2de60d005906101cabd7d8a.png" alt="Home" title="pizza1" >
 						</a>
 					</div>
 				</div>
@@ -81,18 +81,18 @@
 				<img src="background/pizza-2589577_1920.jpg" alt="pizza2">
 				<div class="carousel-caption">
 					<div id="logo1" class="logo1">
-						<a href="#responsive-menu" title="Home" rel="home">
-							<img src="background/3ad4dd83d2de60d005906101cabd7d8a.png" alt="Home">
+						<a href="#responsive-menu" title="Home" rel="home"  alt="home">
+							<img src="background/3ad4dd83d2de60d005906101cabd7d8a.png" alt="Home" title="pizzad">
 						</a>
 					</div>
 				</div>
 			</div>
 			<div class="item">
-				<img src="background/pizza-2589575_1920.jpg" alt="pizza3">
+				<img src="background/pizza-2589575_1920.jpg" alt="pizza3" title="pizza">
 				<div class="carousel-caption">
 					<div id="logo2" class="logo2">
 						<a href="#responsive-menu" title="Home" rel="home">
-							<img src="background/3ad4dd83d2de60d005906101cabd7d8a.png" alt="Home">
+							<img src="background/3ad4dd83d2de60d005906101cabd7d8a.png" alt="Home" title="pizzay">
 						</a>
 					</div>
 				</div>
@@ -116,7 +116,7 @@
 						покрытой в классическом варианте томатами и расплавленным сыром. Сыр является главным ингредиентом пиццы (как правило,
 						моцарелла). Одно из самых популярных блюд в мире, в т.ч. как в домашней кухне, так и особенно в ресторанах, кафе и
 						фастфуде.</p>
-					<img src="background/chef-1245676_640.jpg" alt="chef" id="chef" class="img-circle">
+					<img src="background/chef-1245676_640.jpg" alt="chef" id="chef" class="img-circle" title="pizzach">
 					<p>Шеф-повар Шелдон Купер</p>
 				</div>
 			</div>
@@ -127,7 +127,7 @@
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 					<div class="oil">
-						<img src="background/adult-1868396_1920.jpg" alt="oil" id="oil">
+						<img src="background/adult-1868396_1920.jpg" alt="oil" id="oil" title="pizzaoi">
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
@@ -160,7 +160,7 @@
 			<div class="row">
 				<h5>Menu
 					<br>PIZZA</h5>
-				<img src="background/pizza-3000285_640.png" alt="pizza">
+				<img src="background/pizza-3000285_640.png" alt="pizza" title="pizzam">
 				<div class="menu1">
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 						<p>
@@ -220,7 +220,7 @@
 	</div>
 	<div class="menudessert">
 		<h5>DESSERTS</h5>
-		<img src="background/c6cfde145b281d062af5ecc8de7778c9.png" alt="dessert">
+		<img src="background/c6cfde145b281d062af5ecc8de7778c9.png" alt="dessert" title="pizzade">
 		<div class="container-fluid">
 			<div class="row">
 				<div class="menu1">
@@ -268,7 +268,7 @@
 	</div>
 	<div class="menudrink">
 		<h5>DRINKS</h5>
-		<img src="background/w2y5P_croper_ru-copy-1.jpeg" alt="drink">
+		<img src="background/w2y5P_croper_ru-copy-1.jpeg" alt="drink" title="pizzadr">
 		<div class="container-fluid">
 			<div class="row">
 				<div class="menu1">
@@ -334,7 +334,7 @@
 			<div class="row">
 				<div class="blog1">
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-						<img src="background/restaurant-690975_640.jpg" alt="restaurant" id="restaurant">
+						<img src="background/restaurant-690975_640.jpg" alt="restaurant" id="restaurant" title="pizzay">
 					</div>
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 						<span>05/03/18
@@ -355,12 +355,12 @@
 						</p>
 					</div>
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-						<img src="background/pizza-2810589_640.jpg" alt="pizza" id="restaurant1">
+						<img src="background/pizza-2810589_640.jpg" alt="pizza" id="restaurant1" title="pizzau">
 					</div>
 				</div>
 				<div class="blog3">
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-						<img src="background/coffee-2425275_640.jpg" alt="restaurant" id="restaurant2">
+						<img src="background/coffee-2425275_640.jpg" alt="restaurant" id="restaurant2" title="pizzai">
 					</div>
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 						<span>06/08/17
@@ -382,7 +382,7 @@
 						</p>
 					</div>
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-						<img src="background/pizza-744405_640.jpg" alt="pizza" id="restaurant3">
+						<img src="background/pizza-744405_640.jpg" alt="pizza" id="restaurant3" title="pizzam">
 					</div>
 				</div>
 			</div>
