@@ -5,6 +5,10 @@ font-family: Podkova;
 padding-left: 20%;
 padding-right: 20%;
 }
+.expirience, .learn, .endmenu{
+padding-top: 5%;
+padding-bottom: 5%;
+}
 .chef{
 background: url(../background/chalkboard-2379763_1920.jpg) no-repeat;
 background-size: 100%;
@@ -20,8 +24,6 @@ width: 20%;
 .expirience{
 font-size: 16px;
 text-align: center;
-padding-top: 5%;
-padding-bottom: 5%;
 }
 #oil{
 width: 100%;
@@ -35,16 +37,12 @@ background: url(../background/food-3074026_1920.jpg) no-repeat;
 font-size: 16px;
 text-align: center;
 color: white;
-padding-top: 5%;
-padding-bottom: 5%;
 }
 .endmenu{
 background: url(../background/paprika-3212148_1920.jpg) no-repeat;
 font-size: 16px;
 text-align: center;
 color: white;
-padding-top: 5%;
-padding-bottom: 5%;
 }
 h4, h5, h6{
 font-size: 40px;
