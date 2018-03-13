@@ -81,7 +81,7 @@
 				<img src="background/pizza-2589577_1920.jpg" alt="pizza2">
 				<div class="carousel-caption">
 					<div id="logo1" class="logo1">
-						<a href="#responsive-menu" title="Home" rel="home">
+						<a href="http://vikee.herokuapp.com/pizza.html" title="Home" rel="home">
 							<img src="background/3ad4dd83d2de60d005906101cabd7d8a.png" alt="Home" title="pizzad">
 						</a>
 					</div>
@@ -91,7 +91,7 @@
 				<img src="background/pizza-2589575_1920.jpg" alt="pizza3" title="pizza">
 				<div class="carousel-caption">
 					<div id="logo2" class="logo2">
-						<a href="#responsive-menu" title="Home" rel="home">
+						<a href="http://vikee.herokuapp.com/pizza.html" title="Home" rel="home">
 							<img src="background/3ad4dd83d2de60d005906101cabd7d8a.png" alt="Home" title="pizzay">
 						</a>
 					</div>
