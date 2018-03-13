@@ -40,19 +40,19 @@
 					<div class="collapse navbar-collapse" id="responsive-menu">
 						<ul class="nav navbar-nav">
 							<li>
-								<a href="pizza.html#myCarousel" title="pizza" alt="pizza">Главная</a>
+								<a href="pizza.html#myCarousel" title="pizza">Главная</a>
 							</li>
 							<li>
-								<a href="pizza.html#opizza" title="pizzao" alt="pizzao">О "pizza"</a>
+								<a href="pizza.html#opizza" title="pizzao">О "pizza"</a>
 							</li>
 							<li>
-								<a href="pizza.html#menu" title="pizzaz" alt="pizzaz">Меню</a>
+								<a href="pizza.html#menu" title="pizzaz" >Меню</a>
 							</li>
 							<li>
-								<a href="pizza.html#event" title="pizzae" alt="pizzae">События</a>
+								<a href="pizza.html#event" title="pizzae">События</a>
 							</li>
 							<li>
-								<a href="pizza.html#forma" title="pizzaf" alt="pizzaf">Контакты</a>
+								<a href="pizza.html#forma" title="pizzaf">Контакты</a>
 							</li>
 						</ul>
 					</div>
@@ -72,7 +72,7 @@
 				<div class="carousel-caption">
 					<div id="logo" class="logo">
 						<a href="#responsive-menu" title="Home" rel="home">
-							<img src="background/3ad4dd83d2de60d005906101cabd7d8a.png" alt="Home" title="pizza1" >
+							<img src="background/3ad4dd83d2de60d005906101cabd7d8a.png" title="pizza1" >
 						</a>
 					</div>
 				</div>
