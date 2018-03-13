@@ -116,7 +116,7 @@
 						покрытой в классическом варианте томатами и расплавленным сыром. Сыр является главным ингредиентом пиццы (как правило,
 						моцарелла). Одно из самых популярных блюд в мире, в т.ч. как в домашней кухне, так и особенно в ресторанах, кафе и
 						фастфуде.</p>
-					<img src="background/chef-1245676_640.jpg" alt="chef" id="chef" class="img-circle" title="pizzach">
+					<img src="background/chef-1245676_640.jpg" alt="chef" id="chef" class="img-circle">
 					<p>Шеф-повар Шелдон Купер</p>
 				</div>
 			</div>
@@ -127,7 +127,7 @@
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 					<div class="oil">
-						<img src="background/adult-1868396_1920.jpg" alt="oiloe" id="oil" title="pizzaoi">
+						<img src="background/adult-1868396_1920.jpg" id="oil" title="pizzaoi">
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
