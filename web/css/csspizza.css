@@ -30,7 +30,7 @@ h3{
 margin: 0;
 }
 .learn{
-background: url(background/food-3074026_1920.jpg) no-repeat;
+background: url(../background/food-3074026_1920.jpg) no-repeat;
 font-family: Podkova;
 font-size: 16px;
 text-align: center;
@@ -41,7 +41,7 @@ padding-left: 20%;
 padding-right: 20%;
 }
 .endmenu{
-background: url(background/paprika-3212148_1920.jpg) no-repeat;
+background: url(../background/paprika-3212148_1920.jpg) no-repeat;
 font-family: Podkova;
 font-size: 16px;
 text-align: center;
@@ -116,7 +116,7 @@ font-size: 30px;
 text-align: center;
 }
 .form{
-background: url(background/background-3007395_1920.jpg);
+background: url(../background/background-3007395_1920.jpg);
 font-family: Podkova;
 font-size: 16px;
 text-align: center;
