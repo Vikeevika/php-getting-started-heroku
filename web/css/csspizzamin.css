@@ -141,3 +141,24 @@ text-align: center;
 div.contactss iframe{
 width: 100%;
 }
+.scrollup {
+  position: fixed;
+  right: 5px;
+  bottom: 5px;
+  cursor: pointer;
+  width: 80px;
+  height: 80px; 
+  border-radius: 100%;
+  opacity: .7;
+  display: none;
+}
+
+.scrollup:hover {
+  background: transparent;
+  transition: .2s ease-in;
+  opacity: 1;
+}
+
+.scrollup:not(:hover){
+  transition: .2s ease-in;
+}
