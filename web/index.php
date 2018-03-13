@@ -72,7 +72,7 @@
 				<div class="carousel-caption">
 					<div id="logo" class="logo">
 						<a href="#responsive-menu" title="Home" rel="home">
-							<img src="background/3ad4dd83d2de60d005906101cabd7d8a.png" title="pizza1" >
+							<img src="background/3ad4dd83d2de60d005906101cabd7d8a.png" alt="opiza" title="pizza1" >
 						</a>
 					</div>
 				</div>
@@ -81,7 +81,7 @@
 				<img src="background/pizza-2589577_1920.jpg" alt="pizza2">
 				<div class="carousel-caption">
 					<div id="logo1" class="logo1">
-						<a href="#responsive-menu" title="Home" rel="home"  alt="home">
+						<a href="#responsive-menu" title="Home" rel="home">
 							<img src="background/3ad4dd83d2de60d005906101cabd7d8a.png" alt="Home" title="pizzad">
 						</a>
 					</div>
