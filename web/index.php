@@ -169,7 +169,7 @@
 					</div>
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 						<p>
-							<strong>Пеперони</strong>
+							<strong>Пепперони</strong>
 							<br>Ветчина, колбаса, сыр, лук, перец маринованный, перец пеперони, соус для пиццы, соус чесночный &hellip; &hellip; &hellip;
 							10$</p>
 					</div>
