@@ -1,7 +1,9 @@
+*{
+font-family: Podkova;
+}
 .chef{
 background: url(../background/chalkboard-2379763_1920.jpg) no-repeat;
 background-size: 100%;
-font-family: Podkova;
 font-size: 16px;
 text-align: center;
 color: white;
@@ -14,7 +16,6 @@ padding-right: 20%;
 width: 20%;
 }
 .expirience{
-font-family: Podkova;
 font-size: 16px;
 text-align: center;
 padding-top: 5%;
@@ -31,7 +32,6 @@ margin: 0;
 }
 .learn{
 background: url(../background/food-3074026_1920.jpg) no-repeat;
-font-family: Podkova;
 font-size: 16px;
 text-align: center;
 color: white;
@@ -42,7 +42,6 @@ padding-right: 20%;
 }
 .endmenu{
 background: url(../background/paprika-3212148_1920.jpg) no-repeat;
-font-family: Podkova;
 font-size: 16px;
 text-align: center;
 color: white;
@@ -64,7 +63,6 @@ h6{
 color: white;
 }
 .menupizza, .menudessert, .menudrink{
-font-family: Podkova;
 font-size: 18px;
 text-align: center;
 padding-top: 5%;
@@ -83,7 +81,6 @@ div.menupizza p{
 text-align: left;
 }
 .blog{
-font-family: Podkova;
 font-size: 16px;
 text-align: center;
 padding-left: 20%;
@@ -117,7 +114,6 @@ text-align: center;
 }
 .form{
 background: url(../background/background-3007395_1920.jpg);
-font-family: Podkova;
 font-size: 16px;
 text-align: center;
 color: black;
@@ -149,7 +145,6 @@ height: 50px;
 width: 200px; 
 border: 0px;
 border-radius: 0px;
-font-family: Podkova;
 }
 .btnblog{
 text-align: center;
@@ -176,7 +171,6 @@ li{
 font-size: 30px;
 }
 #responsive-menu{
-font-family: Podkova;
 margin-top: 50px;
 }
 #logo, #logo1, #logo2{
@@ -184,7 +178,6 @@ text-align: center;
 padding-bottom: 400px;
 }
 div.row .contactss{
-font-family: Podkova;
 font-size: 16px;
 text-align: center;
 }
