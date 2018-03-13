@@ -127,7 +127,7 @@
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 					<div class="oil">
-						<img src="background/adult-1868396_1920.jpg" alt="oil" id="oil" title="pizzaoi">
+						<img src="background/adult-1868396_1920.jpg" alt="oiloe" id="oil" title="pizzaoi">
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
