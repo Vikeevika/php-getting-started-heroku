@@ -71,7 +71,7 @@
 				<img src="background/pizza-2589569_1920.jpg" alt="pizza1">
 				<div class="carousel-caption">
 					<div id="logo" class="logo">
-						<a href="#responsive-menu" title="Home" rel="home">
+						<a href="http://vikee.herokuapp.com/pizza.html" title="Home" rel="home">
 							<img src="background/3ad4dd83d2de60d005906101cabd7d8a.png" alt="opiza" title="pizza1" >
 						</a>
 					</div>
