@@ -23,7 +23,7 @@ h3{
 margin: 0;
 }
 .learn{
-background: url(background/food-3074026_1920.jpg);
+background: url(../background/food-3074026_1920.jpg);
 text-align: center;
 color: white;
 }
@@ -50,7 +50,7 @@ width: 20%;
 height: 20%;
 }
 .endmenu{
-background: url(background/paprika-3212148_1920.jpg) no-repeat;
+background: url(../background/paprika-3212148_1920.jpg) no-repeat;
 text-align: center;
 color: white;
 }
@@ -84,7 +84,7 @@ font-size: 30px;
 text-align: center;
 }
 .form{
-background: url(background/background-3007395_1920.jpg);
+background: url(../background/background-3007395_1920.jpg);
 font-size: 16px;
 text-align: center;
 color: black;
