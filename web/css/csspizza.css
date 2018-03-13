@@ -9,10 +9,12 @@ padding-right: 20%;
 padding-top: 5%;
 padding-bottom: 5%;
 }
+.chef, .expirience, .learn, .blog, .form, .contactss{
+font-size: 16px;
+}
 .chef{
 background: url(../background/chalkboard-2379763_1920.jpg) no-repeat;
 background-size: 100%;
-font-size: 16px;
 text-align: center;
 color: white;
 padding-top: 15%;
@@ -22,7 +24,6 @@ padding-bottom: 20%;
 width: 20%;
 }
 .expirience{
-font-size: 16px;
 text-align: center;
 }
 #oil{
@@ -34,13 +35,11 @@ margin: 0;
 }
 .learn{
 background: url(../background/food-3074026_1920.jpg) no-repeat;
-font-size: 16px;
 text-align: center;
 color: white;
 }
 .endmenu{
 background: url(../background/paprika-3212148_1920.jpg) no-repeat;
-font-size: 16px;
 text-align: center;
 color: white;
 }
@@ -73,7 +72,6 @@ div.menupizza p{
 text-align: left;
 }
 .blog{
-font-size: 16px;
 text-align: center;
 }
 #restaurant{
@@ -104,7 +102,6 @@ text-align: center;
 }
 .form{
 background: url(../background/background-3007395_1920.jpg);
-font-size: 16px;
 text-align: center;
 color: black;
 padding-bottom: 5%;
@@ -166,7 +163,6 @@ text-align: center;
 padding-bottom: 400px;
 }
 div.row .contactss{
-font-size: 16px;
 text-align: center;
 }
 div.contactss iframe{
